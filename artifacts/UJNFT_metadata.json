@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.18+commit.87f61d96"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -478,7 +478,7 @@
 		"compilationTarget": {
 			"ujnft721.sol": "UJNFT"
 		},
-		"evmVersion": "paris",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -571,11 +571,11 @@
 			]
 		},
 		"@openzeppelin/contracts/token/ERC721/IERC721.sol": {
-			"keccak256": "0x5bce51e11f7d194b79ea59fe00c9e8de9fa2c5530124960f29a24d4c740a3266",
+			"keccak256": "0x57acc452233860e061c8744b59309c8eabfe584d999cf9ae2f89bf5e275c52fd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7e66dfde185df46104c11bc89d08fa0760737aa59a2b8546a656473d810a8ea4",
-				"dweb:/ipfs/QmXvyqtXPaPss2PD7eqPoSao5Szm2n6UMoiG8TZZDjmChR"
+				"bzz-raw://07c58176eabe6b16b2c81111404081115fc221899ab8a830e802aedbc7ed6195",
+				"dweb:/ipfs/QmdBfMexJ1Gwk5G5tgdZhZ5YTY6sG8qAJ1RxtuLMXnJ3k4"
 			]
 		},
 		"@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {

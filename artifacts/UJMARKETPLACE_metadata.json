@@ -651,11 +651,11 @@
 			]
 		},
 		"ujmarketplace.sol": {
-			"keccak256": "0x74bd76cd62afb0a79debb109628487aac3e63fd9fbcd45182b0427f8d1024c3b",
+			"keccak256": "0x55629f984e5d9518a0af8910dca1b407ee19ae1f1b1956300a8986ce365eab7c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://353a7a1d265ed3bccf3f58274d549e3165fb8832effa8ff4edfaa7191f712d5a",
-				"dweb:/ipfs/Qmcw8oHNwyprc8Cru4Ra5x9gkxwCCQwPhdv6oRo3fGRDre"
+				"bzz-raw://1c46fe84d198052b0cde677f2b38a4b6c8b0cfa7149589c07328be27d5de7b33",
+				"dweb:/ipfs/Qmf6HmAE8d1Fpe7ahbgZ2cwsC67yc3NkPjNpaRJJbJ79aS"
 			]
 		}
 	},
